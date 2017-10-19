@@ -1,0 +1,11 @@
+{
+  "name": "creativity",
+  "version": "1.0.0",
+  "description": "They saw Rome was not built in a day but we have heard that you have a reputation of building amazing things overnight!\r So, what can you build in a day using just an API call. Let's find out!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

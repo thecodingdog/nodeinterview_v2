@@ -1,0 +1,12 @@
+{
+  "CLUSTER_ENABLED": true,
+  "PORT": "3003",
+  "DYNAMODB_TABLE_PREFIX": "local",
+  "LOGGING": {
+    "LEVEL": "DEBUG",
+    "PATH": "/var/log/config-api.log",
+    "MAX_HISTORY_SIZE": 20,
+    "MAX_FILE_SIZE": 524288000
+  },
+  "API_KEY_MAX_AGE": 3600000
+}

@@ -1,0 +1,27 @@
+{
+	"CLUSTER_ENABLED": {
+		"__name": "CLUSTER_ENABLED",
+		"__format": "json"
+	},
+	"KMS": {
+		"JWT_KEY": "JWT_KEY"
+	},
+	"API_KEY_MAX_AGE": {
+		"__name": "API_KEY_MAX_AGE",
+		"__format": "json"
+	},
+	"PORT": "PORT",
+	"LOGGING": {
+		"LEVEL": "LOGGING_LEVEL",
+		"PATH": "LOGGING_FILE",
+		"MAX_HISTORY_SIZE": {
+			"__name": "LOGGING_MAX_HISTORY_SIZE",
+			"__format": "json"
+		},
+		"MAX_FILE_SIZE": {
+			"__name": "LOGGING_MAX_FILE_SIZE",
+			"__format": "json"
+		}
+	},
+	"DYNAMODB_TABLE_PREFIX": "DYNAMODB_TABLE_PREFIX"
+}
