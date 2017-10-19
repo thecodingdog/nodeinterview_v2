@@ -6,7 +6,7 @@ So, what can you build in a day using just an API call. Let's find out!
 ## Situation:
 You are the CTO of an ecommerce company serving a global market. The shareholders of the company could like you to come up with a solution to maximize profits using international forex rates.
 
-You will be given a database of products to work with.
+Your database of products are in the product.json file.
 
 ## Prerequisites:
 1. MVP must be built on a Node stack
